@@ -1,15 +1,51 @@
 # Part 1
 ### a)
-
-
-
+grep -p "bulb" bulbasaur]"".1
+ grep -p "butt" filescan_00.1
+  grep -p "blas" filescan_00.1
+   grep -p "beed" filescan_00.1
+    grep -p "mander" filescan_00.2
+     grep -p "meleon" filescan_00.2
+      grep -p "izard" filescan_00.2
+       grep -p "meow" filescan_00.3
+        grep -p "ivys" filescan_00.3
+        grep -p "pika" filescan_00.3
+        grep -p "jigg" filescan_00.3
+        grep -p "venu" filescan_00.4
+         grep -p "wart" filescan_00.4
+         grep -p "psyd" filescan_00.4
+         grep -p "squi" filescan_00.4
 
 ### b)
 
 
 
-### c)
 
+
+### c)
+section 1:
+Bulbasaur
+Butterfree
+Blastoise
+Beedrill
+
+section 2:
+Charmander
+Charmeleon
+Charizard
+
+section 3:
+Meowth
+Ivysaur
+Picachu
+Jiglypuff
+
+
+section 4:
+Venusaur
+Warthortle
+Psyduck
+Squirtle
 
 
 
@@ -24,6 +60,8 @@
 
 # Part 2
 ### a)
+There are 15 pokemons.
+find . -name '*.txt' | wc -l
 
 
 
@@ -31,7 +69,11 @@
 
 
 ### b)
-
+The pokemons with the largest lines are:
+Picachu
+Beedrill
+Charizard
+grep command -  wc -l < filename
 
 
 
